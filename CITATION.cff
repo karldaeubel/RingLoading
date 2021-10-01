@@ -1,8 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Däubel"
-  given-names: "Karl"
-title: "Ring Loading"
-date-released: 2021-09-30
-url: "https://github.com/karldaeubel/RingLoading"

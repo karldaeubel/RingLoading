@@ -14,6 +14,8 @@ In this repository you find mixed integer linear programs that potentially produ
 
 If you are interested to find better lower bounds and contribute to research, use the given mixed integer programs provided in .lp format. The files rl*.lp model the base model as defined in \[Däu20\]. The files lp_reduced*.lp incorporate some reductions in order to improve the size of the mixed integer linear programs that should allow the instances to solve faster and require less momory.
 
+If you want to create your solve or create your own mixed integer linear programs, you can use the source code provided in the generator folder. The code depends on gurobi and the boost program_options. It can be build with cmake.
+
 ### Results
 
 Every objective value 

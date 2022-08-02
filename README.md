@@ -29,4 +29,4 @@ Every objective value
 
 \[Sku16\] M. Skutella. A note on the ring loading problem. SIAM J. Discrete Math., 30(1):327–342, 2016.
 
-\[Däu20\] K. Däubel. An improved upper bound for the ring loading problem. In Approximation and Online Algorithms, pages 89–105. Springer International Publishing, 2020.
+\[Däu22\] K. Däubel. An improved upper bound for the ring loading problem. SIAM J. Discrete Math., 36(2):867-887, 2022.
